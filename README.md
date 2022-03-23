@@ -12,6 +12,6 @@
     
 正在探索：[**google CRE**](https://cloud.google.com/blog/products/devops-sre/introducing-a-new-era-of-customer-support-google-customer-reliability-engineering) 在 ToB 客户支持场景的实践。    
     
-### 如果
+### 👋 如果
 你热衷于创造和利用工具提升日常工作效率，比如使用 RPA、Python 等，欢迎一起沟通交流。    
 如果你想加入我们的团队，欢迎 Email: zhanghongbin(at)youzan.com
