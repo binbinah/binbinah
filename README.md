@@ -18,6 +18,6 @@
 
 ### 🐋 更多
 
-blog：http://tsing.fun
-twitter: https://twitter.com/binbinah
-ig: https://www.instagram.com/binbinah/
+blog：http://tsing.fun    
+twitter: https://twitter.com/binbinah    
+ig: https://www.instagram.com/binbinah/    
