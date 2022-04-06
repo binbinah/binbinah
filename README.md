@@ -15,7 +15,3 @@
 ### 👋 如果
 你热衷于创造和利用工具提升日常工作效率，比如使用 RPA、Python 等，欢迎一起沟通交流。    
 如果你想加入我们的团队，欢迎 Email: zhanghongbin(at)youzan.com
-
-### 👋 更多
-
-http://tsing.fun    
