@@ -10,7 +10,7 @@
     
 正在学习：**Go**、**K8s**、**云原生** 等相关应用场景。 
     
-正在探索：[**google CRE**](https://cloud.google.com/blog/products/devops-sre/introducing-a-new-era-of-customer-support-google-customer-reliability-engineering) 在 ToB 客户支持场景的实践。    
+~~正在探索：[**google CRE**](https://cloud.google.com/blog/products/devops-sre/introducing-a-new-era-of-customer-support-google-customer-reliability-engineering) 在 ToB 客户支持场景的实践。~~    
     
 ### 👋 如果
 你热衷于创造和利用工具提升日常工作效率，比如使用 RPA、Python 等，欢迎一起沟通交流。    
