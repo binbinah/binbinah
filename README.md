@@ -8,7 +8,7 @@
     
 正在使用 **Python3.6**、[**FastAPI**](https://fastapi.tiangolo.com/)、React（Antd UI） 迭代开发「有赞技术支持平台」。  
     
-正在学习：**Go**、**K8s**、**云原生** 等相关应用场景。 
+正在学习：**Go**、**DevOps**、**云原生** 等相关应用场景。 
     
 ~~正在探索：[**google CRE**](https://cloud.google.com/blog/products/devops-sre/introducing-a-new-era-of-customer-support-google-customer-reliability-engineering) 在 ToB 客户支持场景的实践。~~    
     
