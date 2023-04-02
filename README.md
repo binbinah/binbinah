@@ -6,11 +6,9 @@
 熟悉 Python 及其衍生技术栈、了解 js 和 React。能基于 Python 后端和 React 以及 React 相关的 UI 组件实现一些简单的 web 系统，在 Python 脚本、自动化提效等方面有过多年的实践经验。    
 对于 10 人以内的团队有若干年的管理（定目标追过程拿结果、绩效面谈考核、招聘面试 etc.）的经验。    
     
-正在使用 **Python3.6**、[**FastAPI**](https://fastapi.tiangolo.com/)、React（Antd UI） 迭代开发「有赞技术支持平台」。  
-    
-正在学习：**Go**、**DevOps**、**云原生** 等相关应用场景。 
-    
-~~正在探索：[**google CRE**](https://cloud.google.com/blog/products/devops-sre/introducing-a-new-era-of-customer-support-google-customer-reliability-engineering) 在 ToB 客户支持场景的实践。~~    
+一些关键技能点：
+1. FastAPI、Antd UI （有赞技术支持平台）
+2. flask、Go、Gin、St2、etc (有赞基础运维平台）
     
 ### 👋 如果
 你热衷于创造和利用工具提升日常工作效率，比如使用 RPA、Python 等，欢迎一起沟通交流。    
